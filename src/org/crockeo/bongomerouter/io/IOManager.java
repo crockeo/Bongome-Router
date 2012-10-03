@@ -4,11 +4,11 @@ import org.crockeo.bongomerouter.gui.GuiManager;
 import org.crockeo.bongomerouter.io.serial.*;
 //import org.crockeo.bongomerouter.io.osc.*;
 
+import gnu.io.UnsupportedCommOperationException;
 import gnu.io.PortInUseException;
 import gnu.io.NoSuchPortException;
 import gnu.io.CommPortIdentifier;
 import gnu.io.SerialPort;
-import gnu.io.UnsupportedCommOperationException;
 
 /*
  * Class: IOManager
